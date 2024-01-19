@@ -46,7 +46,7 @@ h1 {
 }
 
 h2 {
-    font-family: 'Poppins2', sans-serif;
+    font-family: 'Poppins1', sans-serif;
 }
 
 h3 {
@@ -83,6 +83,7 @@ body {
 }
 
 .button {
+    font-family: 'Poppins5', sans-serif;
     max-width: fit-content;
     min-width: fit-content;
     color: white;
@@ -210,6 +211,7 @@ body {
 }
 
 .heading-span {
+    font-family: 'Poppins1', sans-serif;
     color: var(--custom-green);
 }
 
