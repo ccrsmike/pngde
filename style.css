@@ -11,27 +11,27 @@
 
 @font-face {
     font-family: 'Poppins1';
-    src: url(/fonts/Poppins1-ExtraBold.otf) format("woff");
+    src: url(https://github.com/ccrsmike/pngde.git/fonts/Poppins1-ExtraBold.otf) format("woff");
 }
 @font-face {
     font-family: 'Poppins2';
-    src: url(/fonts/Poppins2-Bold.otf) format("woff");
+    src: url(https://github.com/ccrsmike/pngde.git/fonts/Poppins2-Bold.otf) format("woff");
 }
 @font-face {
     font-family: 'Poppins3';
-    src: url(/fonts/Poppins3-SemiBold.otf) format("woff");
+    src: url(https://github.com/ccrsmike/pngde.git/fonts/Poppins3-SemiBold.otf) format("woff");
 }
 @font-face {
     font-family: 'Poppins4';
-    src: url(/fonts/Poppins4-Regular.otf) format("woff");
+    src: url(https://github.com/ccrsmike/pngde.git/fonts/Poppins4-Regular.otf) format("woff");
 }
 @font-face {
     font-family: 'Poppins5';
-    src: url(/fonts/Poppins5-Medium.otf) format("woff");
+    src: url(https://github.com/ccrsmike/pngde.git/fonts/Poppins5-Medium.otf) format("woff");
 }
 @font-face {
     font-family: 'Poppins6';
-    src: url(/fonts/Poppins6-Light.otf) format("woff");
+    src: url(https://github.com/ccrsmike/pngde.git/fonts/Poppins6-Light.otf) format("woff");
 }
 html {
     overflow-x: hidden;
