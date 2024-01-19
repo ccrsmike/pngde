@@ -183,7 +183,6 @@ body {
 
 .text-container h1 {
     font-size: 4rem;
-    font-weight: 900;
     line-height: 4.5rem;
 }
 
@@ -194,7 +193,6 @@ body {
 .text-container h3 {
     opacity: .9;
     font-size: 1.5rem;
-    font-weight: 800;
     margin-top: 4rem;
 }
 
@@ -219,7 +217,6 @@ body {
 }
 
 .about h2 {
-    font-weight: var(--heading-weight);
     color: var(--text-color1);
     font-size: var(--heading-size);
     text-align: center;
@@ -261,7 +258,6 @@ body {
 }
 
 .container2 h2 {
-    font-weight: var(--heading-weight);
     text-align: left;
     margin-bottom: 2rem;
     color: var(--text-color1);
@@ -296,7 +292,6 @@ body {
 }
 
 .services h2 {
-    font-weight: var(--heading-weight);
     color: var(--text-color1);
     margin: 4rem auto 0rem auto;
     font-size: var(--heading-size);
@@ -325,7 +320,6 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    font-weight: 900;
     color: var(--text-color1);
 }
 
@@ -355,9 +349,7 @@ body {
     background-color: whitesmoke;
 }
 
-.paragraph-heading {
-    font-weight: 700;
-}
+
 
 .trust .container1 {
     display: flex;
@@ -388,7 +380,6 @@ body {
 }
 
 .testimonial-container h2 {
-    font-weight: var(--heading-weight);
     color: var(--text-color1);
     font-size: var(--heading-size);
     margin-bottom: -2rem;
@@ -469,7 +460,6 @@ body {
 }
 
 .contact h2 {
-    font-weight: var(--heading-weight);
     color: var(--text-color1);
     font-size: var(--heading-size);
 }
@@ -530,7 +520,6 @@ body {
 
 .services-landing h1 {
     font-size: 2.5rem;
-    font-weight: 800;
 }
 
 .services-landing p {
