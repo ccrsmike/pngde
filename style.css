@@ -65,6 +65,14 @@ p {
     font-family: 'Poppins6', sans-serif;
 }
 
+span {
+    font-family: 'Poppins1', sans-serif;
+}
+
+a {
+    font-family: 'Poppins5', sans-serif;
+}
+
 :root {
     --heading-weight: 900;
     --heading-size: 3rem;
@@ -91,7 +99,6 @@ body {
 }
 
 .button {
-    font-family: 'Poppins5', sans-serif;
     max-width: fit-content;
     min-width: fit-content;
     color: white;
@@ -220,7 +227,6 @@ body {
 }
 
 .heading-span {
-    font-family: 'Poppins1', sans-serif;
     color: var(--custom-green);
 }
 
