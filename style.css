@@ -47,14 +47,12 @@ a {
     text-decoration: none;
 }
 
-h1,
-h1 * {
+h1 {
     font-family: 'Poppins1', sans-serif;
 }
 
-h2,
-h2 * {
-    font-family: 'Poppins1', sans-serif;
+h2 {
+    font-family: 'Poppins2', sans-serif;
 }
 
 h3 {
