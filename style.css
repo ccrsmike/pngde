@@ -529,7 +529,7 @@ body {
 }
 
 .card-container .practice-card p {
-    font-weight: lighter;
+    font-weight: 50;
     margin: 0 2rem 2rem 2rem;
     color: gray;
 }
