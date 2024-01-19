@@ -779,7 +779,7 @@ form .button {
 /*Responsiveness*/
 @media (max-width: 1100px) {
     .text-container h1{
-        scale: .9;
+        scale: .5;
     }
     .text-container h3{
         width: 80%;
