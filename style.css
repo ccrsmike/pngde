@@ -2,26 +2,32 @@
     font-family: 'Poppins1';
     src: url(fonts/Poppins1-ExtraBold.otf) format("opentype");
 }
+
 @font-face {
     font-family: 'Poppins2';
     src: url(fonts/Poppins2-Bold.otf) format("opentype");
 }
+
 @font-face {
     font-family: 'Poppins3';
     src: url(fonts/Poppins3-SemiBold.otf) format("opentype");
 }
+
 @font-face {
     font-family: 'Poppins4';
     src: url(fonts/Poppins4-Regular.otf) format("opentype");
 }
+
 @font-face {
     font-family: 'Poppins5';
     src: url(fonts/Poppins5-Medium.otf) format("opentype");
 }
+
 @font-face {
     font-family: 'Poppins6';
     src: url(fonts/Poppins6-Light.otf) format("opentype");
 }
+
 * {
     font-family: 'Poppins', sans-serif;
     margin: 0;
@@ -32,6 +38,7 @@
     outline: none;
     scroll-behavior: smooth;
 }
+
 html {
     overflow-x: hidden;
 }
@@ -41,11 +48,13 @@ a {
     text-decoration: none;
 }
 
-h1 {
+h1,
+h1 * {
     font-family: 'Poppins1', sans-serif;
 }
 
-h2 {
+h2,
+h2 * {
     font-family: 'Poppins1', sans-serif;
 }
 
@@ -53,7 +62,7 @@ h3 {
     font-family: 'Poppins3', sans-serif;
 }
 
-p{
+p {
     font-family: 'Poppins6', sans-serif;
 }
 
@@ -152,6 +161,7 @@ body {
 }
 
 .navigation a {
+    font-family: 'Poppins5', sans-serif;
     text-decoration: none;
     color: var(--text-color2);
     font-weight: 600;
@@ -852,18 +862,22 @@ form .button {
         justify-content: center;
         gap: 1.5rem;
     }
-    .hero .text-container{
+
+    .hero .text-container {
         align-items: center;
         text-align: center;
     }
+
     .hero-image {
         position: relative;
         right: 0;
     }
-    .hero .text-container h1{
+
+    .hero .text-container h1 {
         line-height: 3.2rem;
     }
-    .hero .text-container h3{
+
+    .hero .text-container h3 {
         margin-top: 1rem;
         font-size: 1.2rem;
     }
